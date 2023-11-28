@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 28.11.23
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -19,22 +19,28 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
+![1](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/ffdf6b4d-a7fa-49ce-bd9e-8efe5235bba0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
+
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
+![2](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/261edc13-df2d-4d1c-92ee-4e5792f3cb25)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
+
+
+
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+![3](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/5b1fbfe2-652f-49ea-abe8-b50cf409716a)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
+
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
+![4](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/c2a62069-b973-451e-ab09-7db361f20dbc)
+![5](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/1401d57e-c9d4-4bf0-8966-10c79edab603)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
+
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -46,9 +52,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![6](https://github.com/sravanipopuri2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139778301/f1cfa446-2aef-426f-9850-a4ee4fafb0b3)
 
-### Name:
-### Register Number:
+
+
+### Name:POPURI SRAVANI
+### Register Number:23006561
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
